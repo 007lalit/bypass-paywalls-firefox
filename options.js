@@ -31,6 +31,7 @@ var defaultSites = {
   'The New York Times': 'nytimes.com',
   'The New Yorker': 'newyorker.com',
   'OrlandoSentinel': 'orlandosentinel.com',
+  'Politiken': 'politiken.dk',
   'Quora': 'quora.com',
   'SunSentinel': 'sun-sentinel.com',
   'The Seattle Times': 'seattletimes.com',
